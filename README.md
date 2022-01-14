@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on new opportunities
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Java, JavaScrip and React
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I'm BeerSommelier
 
