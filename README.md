@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on new opportunities
-- 🌱 I’m currently learning Python, Java, JavaScrip and React
+- 🌱 I’m currently learning Python, Java, JavaScrip, MySQL, Kubernetes and React
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I'm BeerSommelier
+- ⚡ Fun fact: I'm Environmental Scientist and BeerSommelier
 
 <div>
   <a href="https://github.com/paesbruno">
