@@ -1,13 +1,20 @@
-### Hi there, I'm Bruno Paes 👋
+### Hi there, I'm Bruno Paes 👋 Welcome to my Github profile.
 
 
 - 🔭 I’m currently working on new opportunities
-- 🌱 I’m currently learning Python, Java, JavaScrip, MySQL, Kubernetes and React
+- 🌱 I’m currently learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I'm Environmental Scientist and BeerSommelier
 
 <div>
   <a href="https://github.com/paesbruno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesbruno&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paesbruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div>
 
